@@ -34,7 +34,7 @@ To run this project, follow these steps:
    ```bash
    jupyter notebook
    ```
-3. Open the `JobSalaryAnalysis.ipynb` notebook.
+3. Open the `salary_analysis.ipynb` notebook.
 4. Run the cells in the notebook to see the analysis and results.
 
 ## Results
