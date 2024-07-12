@@ -11,9 +11,6 @@ Welcome to the Job Salary Analysis Project! This project aims to explore the rel
 ## Dataset
 The dataset used in this project is from [Kaggle's Salary Prediction Data](https://www.kaggle.com/datasets/mrsimple07/salary-prediction-data/data). It includes features such as education level, years of experience, location, job title, age, gender, and salary. The dataset is synthetic and collected via simulation.
 
-## Model
-We analyze the relationship between years of experience and salary using various visualizations and statistical methods. The analysis explores how this relationship changes based on different education levels.
-
 ## Installation
 To run this project, follow these steps:
 
